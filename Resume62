@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+            <title> RESUME </title>
+  <style> table, th, td {border:1px solid black;}</style>
+   </head>
+<background color:black;>
+ 
+ <center><h3 style="color:pink;">SNEHA NAYEK </h3></center>
+<img src="C:\Users\HP\Desktop\sac.jpeg" width="100" height="100">
+ <p> NAME:SNEHA NAYEK </p> 
+ <p> EMAIL- snehanayek3@gmail.com</p>
+
+ <p> MOBILE- 845653446 </p> 
+<<img src="">
+
+  <h3 style="color:black;"> EDUCATIONAL INFO </h3>
+ <table> 
+ <tr> 
+ <th> Educational qualification </th>
+ <th>Mark</th>
+ <th>Institution name</th>
+ </tr> 
+
+ <tr> 
+ <td> 12th passed </td>
+ <td> 85% </td>
+ <td> VISHWAKALYAN SCHOOL </td> 
+ </tr>
+  
+ <tr> 
+ <td> 10th passed </td>
+ <td> 87% </td> 
+ <td> VIDYAVALLEY INTERNATIONAL SCHOOL </td>
+ </td>
+ </table>
+
+<tr>
+  <ol style="float:center">
+ <h3 style="color:black;"> TECHNICAL SKILLS <h3> 
+    <li> Language: C programming, C++, Data Analysis,  </li>
+    <li>Data Analysis </li>
+    <li> MS office and front page </li>
+    <li> Web technologies: Html, css, javascript</li>
+  </tr>
+  <ol style="float:center">
+<h3 style="color:black;">CERTIFICATIONS:</h3></h3>
+  <li> COURSERA Google Data Analytics certification </li>
+       <li> Fundamentals of artificial intelligence </li>
+       <li>Foundation of Data </li>
+       <li>Foundation of Google Cybersecurity</li>
+       <li>C Programming</li>
+         </ol>
+<ol style="float:center">
+       <h3 style="color:black";>PERSONAL INFORMATION</h3>
+       <li>DOB:24-03-2006</li>
+       <li>Languages known: English,Hindi,Marathi,Bengali and many more</li>
+ <div class="resume_item resume_hobby">
+      <div class="title">
+           <p class="bold">Hobby</p>
+         </div>
+ <ul>
+         <li> Reading</li>
+         <li>Art and Fashions</li>
+         <li> Dance </li>
+              </ul>
+       
+     
+     </html>
