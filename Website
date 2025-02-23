@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skincare Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff5f0;
+        }
+                header {
+            background-color: #f4a7b9;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #f7c3d4;
+            padding: 0.5rem 0;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            background-color: #f492aa;
+        }
+
+        main {
+            padding: 2rem;
+            text-align: center;
+        }
+
+        section {
+            margin-bottom: 2rem;
+        }
+
+        footer {
+            background-color: #f4a7b9;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 1rem 0;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Skincare Guide</h1>
+    </header>
+
+    <nav>
+        <a href="#cleansing">Cleansing</a>
+        <a href="#moisturizing">Moisturizing</a>
+        <a href="#sunscreen">Sunscreen</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <main>
+        <section id="cleansing">
+            <h2>Cleansing</h2>
+            <p>Start your skincare routine by cleansing your face with a gentle cleanser to remove dirt and makeup.
+Cleansing with essential products is important because it helps remove dirt, impurities, and excess oils from the skin, promoting a clear, healthy complexion. 
+It also enhances the effectiveness of subsequent skincare treatments and allows the skin to breathe and regenerate properly. 
+Essential cleansing products maintain the skin's natural balance, preventing irritation and maintaining hydration.
+</p>
+            <img src="https://i1.wp.com/wakeupformakeup.com/wp-content/uploads/2019/04/best-gentle-cleansers.jpg"width="150";height="150" alt="Cleansing image">
+            <p>Recommended product: <a href="https://www.sephora.com//cleanser" target="_blank">Gentle Face Cleanser</a></p>
+        </section>
+
+        <section id="moisturizing">
+            <h2>Moisturizing</h2>
+            <p>Keep your skin hydrated by using a moisturizer suitable for your skin type.
+Using a moisturizer with essential products is crucial for maintaining skin hydration, preventing dryness, and restoring the skin's natural barrier. 
+It helps lock in moisture, supports skin elasticity, and protects against environmental stressors. 
+Regular moisturizing with quality products keeps the skin smooth, healthy, and balanced, reducing the risk of irritation and premature aging.</p>
+            <img src="Kosmetyki Mary Kay.jpg"width="150";height="150 alt="Moisturizing image">
+            <p>Recommended product: <a href="https://www.kiehls.com//moisturizer" target="_blank">Hydrating Moisturizer</a></p>
+        </section>
+
+        <section id="sunscreen">
+            <h2>Sunscreen</h2>
+            <p>Protect your skin from harmful UV rays by applying sunscreen with at least SPF 30.
+Using sunscreen with essential ingredients is vital for protecting the skin from harmful UV rays, which can cause premature aging, sunburn, and increase the risk of skin cancer. 
+It helps prevent damage to the skin's collagen and elastin, maintaining skin health and preventing pigmentation. 
+Regular use of sunscreen keeps the skin safe and youthful by shielding it from both UVA and UVB rays, making it an essential part of any skincare routine.</p>
+            <img src="https://imgmedia.lbb.in/media/2023/06/647867cc3d39531e62c51e2c_1685612492070.jpg"width="150";height="150" alt="Sunscreen image">
+            <p>Recommended product: <a href="https://www.cerave.com//sunscreen" target="_blank">SPF 30+ Sunscreen</a></p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Have questions? Email us at <a href="mailto:info@skincareguide.com">info@skincareguide.com</a>.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Skincare Guide. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
